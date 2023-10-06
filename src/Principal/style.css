@@ -93,7 +93,12 @@ footer img{
 }
 
 @media (max-width: 768px) {
+    .produtos{
+        flex-direction: column;
+    }
+
     .card {
+        width: 340px;
         height: 200px;
     }
     .card img{
