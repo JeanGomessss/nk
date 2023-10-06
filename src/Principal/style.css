@@ -56,6 +56,10 @@
     font-family: 'Nike', sans-serif;
 }
 
+.banner h1{
+    background-color: #000;
+}
+
 .banner h2{
     font-size: 35px;
 }
