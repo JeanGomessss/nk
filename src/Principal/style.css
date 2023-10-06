@@ -95,6 +95,7 @@ footer img{
 @media (max-width: 768px) {
     .produtos{
         flex-direction: column;
+        padding: 0;
     }
 
     .card {
