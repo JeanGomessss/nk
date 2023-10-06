@@ -98,8 +98,7 @@ footer img{
     }
 
     .card {
-        width: 340px;
-        height: 200px;
+        background-color: transparent;
     }
     .card img{
         width: 200px
