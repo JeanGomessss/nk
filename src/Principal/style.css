@@ -98,6 +98,9 @@ footer img{
     }
 
     .card {
+        width: 300px;
+        align-items: center;
+        justify-content: center;
         background-color: transparent;
     }
     .card img{
