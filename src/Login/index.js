@@ -7,8 +7,7 @@ export default function Login () {
         <div className="login">
             <div className="login-box">
                 <div className='menu-login'>
-                    <h1 className="titulo">Nike User!</h1>
-                    <p>Sign up for more Offers</p>
+                    <h1 className="titulo">Nike</h1>
                     <div className='campos'>
                         <input className='campo-login' type='text' placeholder='Username'></input>
                         <input className='campo-login' type='Password' placeholder='Password'></input>

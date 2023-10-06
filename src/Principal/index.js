@@ -16,22 +16,11 @@ export default function Principal (){
             <main>
                 <div className="banner">
                     <h1>AIR FORCE</h1>
+                    <h2>Travis Scott</h2>
                 </div>
                 <div className="produtos">
                     <div className="card">
-                        <img src="assets/air1.png" />
-                    </div>
-
-                    <div className="card">
-                        <img src="assets/airblack.png" />
-                    </div>
-                    
-                    <div className="card">
-                        <img src="assets/airbrown.png" />
-                    </div>
-                    
-                    <div className="card">
-                        <img src="assets/aircustom.png" />
+                        <img src="assets/nktravis.png" />
                     </div>
                 </div>
             </main>
